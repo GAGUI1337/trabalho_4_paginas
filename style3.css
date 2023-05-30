@@ -1,0 +1,31 @@
+header {
+    text-align: right;
+    background-color: #6294ff;
+    color: #fff;
+    padding: 20px;
+  }
+
+  .logo{
+    text-align: left;
+    width: 50%;
+  }
+
+  .menu{
+    padding-top: 30px;
+    width: 50%;
+    text-align: right;
+  }
+
+  .center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1900px;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
